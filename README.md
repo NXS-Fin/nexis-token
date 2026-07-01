@@ -1,6 +1,12 @@
 # NEXIS Token (NXS)
 
-ERC-20 token deployed on Ethereum Mainnet.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Network](https://img.shields.io/badge/network-Ethereum-purple.svg)
+![Standard](https://img.shields.io/badge/standard-ERC--20-green.svg)
+
+## Overview
+
+NEXIS (NXS) is an ERC-20 token on Ethereum Mainnet with a built-in deflationary mechanism — 0.5% of every transaction is permanently burned.
 
 ## Token Info
 
@@ -9,15 +15,25 @@ ERC-20 token deployed on Ethereum Mainnet.
 | Name | NEXIS |
 | Symbol | NXS |
 | Network | Ethereum Mainnet |
+| Standard | ERC-20 |
 | Total Supply | 444,444,444 NXS |
 | Decimals | 18 |
-| Burn | 0.5% per transaction |
-| Contract | [0x1cef6745e3664dc4aff9366b001ac9a40c5ea45b](https://etherscan.io/token/0x1cef6745e3664dc4aff9366b001ac9a40c5ea45b) |
+| Burn Rate | 0.5% per transaction |
+| Contract | `0x1CeF6745E3664dC4aFf9366B001AC9A40C5Ea45B` |
 
-## Website
+## Links
 
-[nexis.finance](https://nexis.finance)
+- 🌐 Website: [nexis.finance](https://nexis.finance)
+- 🔍 Etherscan: [View Contract](https://etherscan.io/token/0x1CeF6745E3664dC4aFf9366B001AC9A40C5Ea45B)
+- 📧 Contact: contact@nexis.finance
 
 ## Contract
 
-Verified on Etherscan: [View Source Code](https://etherscan.io/token/0x1cef6745e3664dc4aff9366b001ac9a40c5ea45b#code)
+Verified on:
+- ✅ Etherscan
+- ✅ Sourcify
+- ✅ Blockscout
+
+## License
+
+MIT
