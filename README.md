@@ -19,12 +19,12 @@ NEXIS (NXS) is an ERC-20 token on Ethereum Mainnet with a built-in deflationary 
 | Total Supply | 444,444,444 NXS |
 | Decimals | 18 |
 | Burn Rate | 0.5% per transaction |
-| Contract | `0x1CeF6745E3664dC4aFf9366B001AC9A40C5Ea45B` |
+| Contract | `0x3989fd56a6762a5257748688febe1af2df17c0c4` |
 
 ## Links
 
 - 🌐 Website: [nexis.finance](https://nexis.finance)
-- 🔍 Etherscan: [View Contract](https://etherscan.io/token/0x1CeF6745E3664dC4aFf9366B001AC9A40C5Ea45B)
+- 🔍 Etherscan: [View Contract](https://etherscan.io/token/0x3989fd56a6762a5257748688febe1af2df17c0c4)
 - 📧 Contact: contact@nexis.finance
 
 ## Contract
